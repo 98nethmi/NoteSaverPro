@@ -1,0 +1,9 @@
+export default {
+    DARK: '#1e1e1e',
+    LIGHT: '#FFF',
+    PRIMARY: '#dbb2ff',
+    ERROR: '#ff0000',
+    WHITE : '#ffffff',
+    PURPLE : '#6727e6'
+  };
+  
